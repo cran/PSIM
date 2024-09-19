@@ -1,0 +1,8 @@
+d5526c13cd9330439ca5ff3a2fc51c9b *DESCRIPTION
+4de4df4aee98327b885b0053794a3251 *NAMESPACE
+e0c6faec0d4717a5296d4b16c7ee12c3 *R/PSIM.R
+88c0dfff9a3fe64dabc7f5cd395a6a50 *README.md
+b9e491f63815490fcfa4787a4176a1be *inst/wordlist
+51b4d05a8a77af27eda2f2b9445d4f59 *man/psicalc.Rd
+ab4778281956b3485dbe61ed87562239 *tests/testthat.R
+ce21a5e42bfe19153fc3785846fb3941 *tests/testthat/teste_psi.R
